@@ -1,7 +1,12 @@
-# About me
+What am I doing right now?
+🔭 Probably reading research papers on cs+biomedical research and applying for SWE/ML summer internships
+🌱 I’m also learning React Native, Expo, Swift, and Kotlin for mobile development
 
-- 🔭 I’m currently reading research papers on new cs+biomedical research and applying for SWE/ML summer internships
-- 🌱 I’m currently learning to use React Native, Swift, Kotlin for mobile development and perform beta testing
-- 👯 I’m looking to collaborate on SWE/ML projects that help me learn new frameworks and libraries
-- 📫 How to reach me: shahnakul@gmail.com
-- ⚡ Fun fact: I love traveling!
+What am I looking for?
+👯 Collaboration on SWE/ML projects that help me learn new frameworks and libraries
+📫 React me via LinkedIn and I'll be open to chat!
+
+Fun Facts:
+🏀 Basketball Enthusiast
+⚡ Love traveling
+🎵 Melomaniac
