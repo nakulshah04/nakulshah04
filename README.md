@@ -5,7 +5,7 @@
 
 ### What am I looking for?
 👯 Collaboration on SWE/ML projects that help me learn new frameworks and libraries <br />
-📫 React me via LinkedIn and I'll be open to chat! <br />
+📫 Reach me via LinkedIn and I'll be open to chat! <br />
 
 ### Fun Facts:
 🏀 Basketball Enthusiast <br />
