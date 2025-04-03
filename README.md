@@ -8,7 +8,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=22&duration=3000&pause=500&center=true&random=true&width=1000&lines=Machine+Learning;Artificial+Intelligence;Georgia Tech;Self+Taught+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=22&duration=3000&pause=500&center=true&random=true&width=1000&lines=Machine+Learning;Artificial+Intelligence;Georgia+Tech+Student;" alt="Typing SVG" />
   </picture>
 </p>
 
