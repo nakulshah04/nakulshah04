@@ -12,7 +12,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
@@ -50,11 +50,15 @@
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakulshah04&count_private=true&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulshah04&layout=compact&langs_count=10&theme=tokyonight&hide=html,css" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nakulshah04&theme=tokyonight&title=-Reviews" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -63,10 +67,4 @@
   <a href="https://www.instagram.com/nakulshah04/"><img width="32px" alt="Instagram" title="Instagram" src="https://github.com/dheereshagrwal/colored-icons/blob/f926a9cacef437021842aa53029d1b73fb03de15/svg/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/nakulshah04/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/dheereshagrwal/colored-icons/blob/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg"/></a>
-</p>
-
----
-
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=nakulshah04&theme=tokyonight&title=-Reviews"/>
 </p>
