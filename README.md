@@ -46,11 +46,18 @@
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakulshah04&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulshah04&layout=compact&langs_count=10&theme=tokyonight&hide=html,css" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nakulshah04&theme=tokyonight&title=-Reviews" alt="GitHub Trophies" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakulshah04&count_private=true&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulshah04&layout=compact&langs_count=10&theme=tokyonight&hide=html,css" />
+      <br><br>
+      <img src="https://github-profile-trophy.vercel.app/?username=nakulshah04&theme=tokyonight&title=-Reviews" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
 ---
 
