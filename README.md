@@ -12,8 +12,6 @@
 
 ---
 
-### Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -50,16 +48,14 @@
 
 ---
 
-### GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakulshah04&count_private=true&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulshah04&layout=compact&langs_count=10&theme=tokyonight&hide=html,css" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nakulshah04&theme=tokyonight&title=-Reviews" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
